@@ -1,9 +1,10 @@
 import warmap_1.EveryNth;
+import warmup_2.StringYak;
 
 public class Main {
     public static void main(String[] args) {
-        EveryNth everyNth = new EveryNth();
-        System.out.println(everyNth.everyNth("Miracle", 2));
+        StringYak stringYak = new StringYak();
+        System.out.println(stringYak.stringYak("yakpak"));
 
 
     }
